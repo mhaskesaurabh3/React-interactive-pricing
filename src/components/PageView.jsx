@@ -29,7 +29,7 @@ const PageView = () => {
     }
   };
 
-  const pageViews = ['10', '50', '100', '500', '1'];
+  const pageViews = ['10', '50', '100', '500', '1000'];
   const priceForView = ['8', '12', '16', '24', '36'];
   // console.log(pageViews);
 
