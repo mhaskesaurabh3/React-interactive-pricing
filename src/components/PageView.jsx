@@ -17,7 +17,7 @@ const PageView = () => {
   const handleCheckbox = (e) => {
     let checkVal = e.target.checked;
     setToggleCheck(checkVal);
-    let discount = 20;
+    let discount = 25;
     let arr = priceForView;
     // var updatedPrice = [];
     console.log(updatedPrice);
